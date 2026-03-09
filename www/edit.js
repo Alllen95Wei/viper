@@ -3,7 +3,7 @@
 addI18n({
 	delete_confirm:{
 		en:'Are you sure you want to delete _FILE_?',
-		zh_tw:'您確定要刪除_FILE_嗎？',
+		zh_tw:'您確定要刪除 _FILE_ 嗎？',
 		fr:'Êtes-vous sûr de vouloir supprimer _FILE_ ?',
 		tr:'_FILE_ dosyasını silmek istediğinizden emin misiniz?',
 		pt:'Você tem certeza de que deseja excluir _FILE_?',
