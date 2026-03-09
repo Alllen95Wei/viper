@@ -6,7 +6,7 @@ addI18n({
 		tr:'Takımları Yönet',
 		pt:'Gerenciar Equipes',
 		he:'נהל קבוצות',
-		zh_tw:'管理團隊',
+		zh_tw:'管理顯示中的隊伍',
 		fr:'Gérer les équipes',
 	},
 	compare_page_title:{
@@ -14,7 +14,7 @@ addI18n({
 		tr:'Takımları Karşılaştır: _TEAMS_ _EVENT_ adresinde',
 		pt:'Comparar Equipes: _TEAMS_ em _EVENT_',
 		he:'השווה קבוצות: _TEAMS_ ב-_EVENT_',
-		zh_tw:'比較團隊：_TEAMS_ 參加 _EVENT_',
+		zh_tw:'比較隊伍：_EVENT_ 的 _TEAMS_',
 		fr:'Comparer les équipes : _TEAMS_ à _EVENT_',
 	},
 })
