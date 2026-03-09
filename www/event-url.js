@@ -11,7 +11,7 @@ addI18n({
 	},
 	no_event_title:{
 		en:'Event not specified',
-		zh_tw:'未指定事件',
+		zh_tw:'未指定活動',
 		he:'האירוע לא צוין',
 		fr:'Événement non spécifié',
 		pt:'Evento não especificado',
@@ -19,7 +19,7 @@ addI18n({
 	},
 	no_event_message:{
 		en:'No event parameter found in URL',
-		zh_tw:'URL 中未找到事件參數',
+		zh_tw:'URL 中未找到活動參數',
 		he:'לא נמצא פרמטר אירוע ב-URL',
 		fr:'Aucun paramètre d\'événement trouvé dans l\'URL',
 		pt:'Nenhum parâmetro de evento encontrado na URL',
@@ -35,7 +35,7 @@ addI18n({
 	},
 	js_error_message:{
 		en:'Maybe the season isn\'t implemented?',
-		zh_tw:'也許這個季節還沒有實施？',
+		zh_tw:'可能系統還不支援這個賽季？',
 		he:'אולי העונה לא מיושמת?',
 		fr:'Peut-être que la saison n\'est pas implémentée ?',
 		pt:'Talvez a temporada não esteja implementada?',
