@@ -15,7 +15,7 @@ addI18n({
 		pt:'Observado:',
 		fr:'Scruté :',
 		he:'צופי:',
-		zh_tw:'偵察：',
+		zh_tw:'觀賽：',
 	},
 	prediction_label:{
 		en:'Predicted:',
@@ -23,7 +23,7 @@ addI18n({
 		pt:'Previsto:',
 		fr:'Prévu :',
 		he:'חזוי:',
-		zh_tw:'預測：',
+		zh_tw:'預估：',
 	},
 	history_link:{
 		en:'History',
@@ -47,7 +47,7 @@ addI18n({
 		he:'נוֹף',
 		tr:'Görüntüle',
 		fr:'Afficher',
-		zh_tw:'看法',
+		zh_tw:'查看',
 	},
 	date_range:{
 		en:"_START_ to _END_",
@@ -60,7 +60,7 @@ addI18n({
 	scouting_heading:{
 		en:'Scouting',
 		he:'צוֹפִיוּת',
-		zh_tw:'偵察',
+		zh_tw:'偵查',
 		pt:'Scouting',
 		fr:'Repérage',
 		tr:'İzcilik',
@@ -68,7 +68,7 @@ addI18n({
 	event_upload_link:{
 		en:'Upload Scouting Data (Matches: _UPLOADCOUNT_)',
 		he:'העלה נתוני צופים (התאמות: _UPLOADCOUNT_)',
-		zh_tw:'上傳偵察資料（匹配數：_UPLOADCOUNT_）',
+		zh_tw:'上傳觀賽資料 (對局數：_UPLOADCOUNT_)',
 		pt:'Carregar dados de Scouting (Partidas: _UPLOADCOUNT_)',
 		fr:'Télécharger les données de repérage (Matchs : _UPLOADCOUNT_)',
 		tr:'İzcilik Verilerini Yükle (Maçlar: _UPLOADCOUNT_)',
@@ -76,7 +76,7 @@ addI18n({
 	scout_match_link:{
 		en:'Scout a match',
 		he:'צופי גפרור',
-		zh_tw:'偵察比賽',
+		zh_tw:'對局觀賽',
 		pt:'Observar uma partida',
 		fr:'Repérer un match',
 		tr:'Bir maçı izle',
@@ -84,14 +84,14 @@ addI18n({
 	all_photos_link:{
 		en:'Upload bot photos for all teams',
 		he:'העלה תמונות בוט לכל הקבוצות',
-		zh_tw:'為所有隊伍上傳機器人照片',
+		zh_tw:'上傳所有隊伍的機器人照片',
 		pt:'Carregar fotos de bot para todos os times',
 		fr:'Télécharger les photos du robot pour toutes les équipes',
 		tr:'Tüm takımlar için bot fotoğrafları yükle',
 	},
 	all_pit_link:{
 		en:'Open pit scouting for all teams',
-		zh_tw:'為所有團隊進行露天礦場勘察',
+		zh_tw:'開啟所有隊伍的 Pit 偵查',
 		pt:'Observação de poço aberto para todos os times',
 		fr:'Repérage en fosse ouverte pour toutes les équipes',
 		tr:'Tüm takımlar için açık çukur izciliği',
@@ -100,7 +100,7 @@ addI18n({
 	pit_squads:{
 		en:'Open pit and photo scouting squads:',
 		he:'חוליות בור פתוח וצופית צילום:',
-		zh_tw:'露天礦和攝影偵察隊：',
+		zh_tw:'開啟 Pit/照片偵查小隊',
 		pt:'Esquadrões de observação de poço aberto e de fotos:',
 		fr:'Repérage en fosse ouverte et photos des équipes :',
 		tr:'Açık çukur ve fotoğraf izcilik takımları:',
@@ -108,7 +108,7 @@ addI18n({
 	all_subjective_link:{
 		en:'Subjective scouting',
 		he:'סקאוטינג סובייקטיבי',
-		zh_tw:'主觀球探',
+		zh_tw:'主觀紀錄',
 		pt:'Observação subjetiva',
 		fr:'Repérage subjectif',
 		tr:'Öznel izcilik',
@@ -116,7 +116,7 @@ addI18n({
 	top_scouters_link:{
 		en:'Top scouters',
 		he:'צופים מובילים',
-		zh_tw:'頂級球探',
+		zh_tw:'傑出觀賽者',
 		pt:'Melhores olheiros',
 		fr:'Meilleurs recruteurs',
 		tr:'En iyi izciler',
@@ -124,7 +124,7 @@ addI18n({
 	compare_link:{
 		en:'Compare scouting to official scores',
 		he:'השווה את הסקאוטינג לתוצאות רשמיות',
-		zh_tw:'將球探調查結果與官方分數進行比較',
+		zh_tw:'比對觀賽結果與官方分數',
 		pt:'Comparar observação com pontuações oficiais',
 		fr:'Comparer les résultats du repérage aux scores officiels',
 		tr:'İzciliği resmi skorlarla karşılaştır',
@@ -140,7 +140,7 @@ addI18n({
 	event_stats_link:{
 		en:'View stats for alliance selection',
 		he:'הצג נתונים סטטיסטיים עבור בחירת ברית',
-		zh_tw:'查看聯盟選擇的統計數據',
+		zh_tw:'查看數據供自選聯盟',
 		pt:'Ver estatísticas para seleção de alianças',
 		fr:'Afficher les statistiques pour la sélection d\'alliance',
 		tr:'İttifak seçimi için istatistikleri görüntüle',
@@ -148,7 +148,7 @@ addI18n({
 	all_predict_link:{
 		en:'Predict a match outcome',
 		he:'חזה את תוצאת המשחק',
-		zh_tw:'預測比賽結果',
+		zh_tw:'預測對局結果',
 		pt:'Prever o resultado de uma partida',
 		fr:'Prédire l\'issue d\'un match',
 		tr:'Bir maç sonucunu tahmin et',
@@ -156,7 +156,7 @@ addI18n({
 	all_planner_link:{
 		en:'View match planner with whiteboard',
 		he:'צפה במתכנן התאמה עם לוח לבן',
-		zh_tw:'使用白板查看比賽計劃器',
+		zh_tw:'查看戰術板與策略白板',
 		pt:'Ver planejador de partidas com quadro branco',
 		fr:'Afficher le planificateur de match avec le tableau blanc',
 		tr:'Beyaz tahta ile maç planlayıcısını görüntüle',
@@ -164,7 +164,7 @@ addI18n({
 	all_team_stats_link:{
 		en:'View individual team stats and pit scouting data',
 		he:'הצג נתונים סטטיסטיים של צוות בודד ונתוני סקאוטינג בבור',
-		zh_tw:'查看各車隊的統計數據和維修站偵察數據',
+		zh_tw:'查看各隊伍的統計數據和 Pit 偵察資料',
 		pt:'Ver estatísticas de times individuais e dados de observação de poço',
 		fr:'Afficher les statistiques individuelles des équipes et les données de repérage en fosse',
 		tr:'Bireysel takım istatistiklerini ve çukur izcilik verilerini görüntüle',
@@ -172,7 +172,7 @@ addI18n({
 	data_heading:{
 		en:'Data',
 		he:'נְתוּנִים',
-		zh_tw:'數據',
+		zh_tw:'資料',
 		pt:'Dados',
 		fr:'Données',
 		tr:'Veri',
@@ -188,7 +188,7 @@ addI18n({
 	computed_data_link:{
 		en:'Scouting Data with Computed Scores',
 		he:'נתוני צופי עם ציונים מחושבים',
-		zh_tw:'使用計算分數來偵察數據',
+		zh_tw:'數據紀錄 (含計算得分)',
 		pt:'Dados de observação com pontuações computadas',
 		fr:'Données de repérage avec scores calculés',
 		tr:'Hesaplanmış Skorlarla İzcilik Verileri',
@@ -196,7 +196,7 @@ addI18n({
 	aggregated_data_link:{
 		en:'Scouting Data Aggregated by Team',
 		he:'נתוני צופי מצטברים לפי צוות',
-		zh_tw:'按球隊彙總的球探數據',
+		zh_tw:'隊伍數據統計',
 		pt:'Dados de observação agregados por time',
 		fr:'Données de repérage agrégées par équipe',
 		tr:'Takım Tarafından Toplanan İzcilik Verileri',
@@ -212,7 +212,7 @@ addI18n({
 	edit_event_link:{
 		en:'Change event details and match schedule',
 		he:'שנה את פרטי האירוע ולוח הזמנים של המשחק',
-		zh_tw:'更改賽事詳情和比賽行程',
+		zh_tw:'編輯活動資訊和比賽時程',
 		pt:'Alterar detalhes do evento e cronograma de partidas',
 		fr:'Modifier les détails de l\'événement et le calendrier des matchs',
 		tr:'Etkinlik ayrıntılarını ve maç programını değiştir',
@@ -220,7 +220,7 @@ addI18n({
 	edit_playoffs_link:{
 		en:'Input alliance selection results and playoff type',
 		he:'הזן תוצאות בחירת ברית וסוג פלייאוף',
-		zh_tw:'輸入聯盟選擇結果和季後賽類型',
+		zh_tw:'輸入自選聯盟結果和淘汰賽類型',
 		pt:'Inserir resultados de seleção de alianças e tipo de playoff',
 		fr:'Saisir les résultats de la sélection d\'alliance et le type de séries éliminatoires',
 		tr:'İttifak seçimi sonuçlarını ve playoff türünü gir',
@@ -252,7 +252,7 @@ addI18n({
 	blue_alliance_main_link:{
 		en:'The Blue Alliance',
 		he:'הברית הכחולה',
-		zh_tw:'藍色聯盟',
+		zh_tw:'The Blue Alliance',
 		pt:'A Aliança Azul',
 		fr:'L\'Alliance Bleue',
 		tr:'The Blue Alliance',
@@ -292,7 +292,7 @@ addI18n({
 	blue_alliance_teams_link:{
 		en:'Teams',
 		he:'צוותים',
-		zh_tw:'團隊',
+		zh_tw:'隊伍',
 		pt:'Equipes',
 		fr:'Équipes',
 		tr:'Takımlar',
@@ -316,7 +316,7 @@ addI18n({
 	orange_alliance_main_link:{
 		en:'The Orange Alliance',
 		he:'הברית הכתומה',
-		zh_tw:'橘色聯盟',
+		zh_tw:'The Orange Alliance',
 		pt:'A Orange Alliance',
 		fr:'L\'Alliance Orange',
 		tr:'The Orange Alliance',
@@ -324,7 +324,7 @@ addI18n({
 	first_main_link:{
 		en:'First Inspires',
 		he:'השראה ראשונה',
-		zh_tw:'首次啟發',
+		zh_tw:'First Inspires',
 		pt:'First Inspires',
 		fr:'Inspirations',
 		tr:'First Inspires',
@@ -348,7 +348,7 @@ addI18n({
 	first_ranking_link:{
 		en:'Qualification Rankings',
 		he:'דירוג ההסמכה',
-		zh_tw:'資格排名',
+		zh_tw:'資格賽排名',
 		pt:'Classificações de qualificação',
 		fr:'Classements de qualification',
 		tr:'Kalifikasyon Sıralamaları',
@@ -356,7 +356,7 @@ addI18n({
 	first_playoffs_link:{
 		en:'Playoff Matches',
 		he:'משחקי פלייאוף',
-		zh_tw:'季後賽',
+		zh_tw:'淘汰賽',
 		pt:'Partidas de playoff',
 		fr:'Matchs de séries éliminatoires',
 		tr:'Playoff Maçları',
@@ -396,7 +396,7 @@ addI18n({
 	csv_schedule:{
 		en:'Schedule CSV',
 		he:'תזמן CSV',
-		zh_tw:'計劃 CSV',
+		zh_tw:'時程 CSV',
 		pt:'Cronograma CSV',
 		fr:'Calendrier (CSV)',
 		tr:'Program CSV',
@@ -404,7 +404,7 @@ addI18n({
 	csv_scouting:{
 		en:'Scouting CSV',
 		he:'צופי CSV',
-		zh_tw:'偵察 CSV',
+		zh_tw:'觀賽資料 CSV',
 		pt:'Olheiros CSV',
 		fr:'Repérage (CSV)',
 		tr:'İzleme CSV',
@@ -415,12 +415,12 @@ addI18n({
 		pt:'Alianças de API',
 		fr:'Alliances API',
 		he:'בריתות API',
-		zh_tw:'API 聯盟',
+		zh_tw:'API 自選聯盟',
 	},
 	csv_alliances:{
 		en:'Alliances CSV',
 		he:'CSV של בריתות',
-		zh_tw:'聯盟 CSV',
+		zh_tw:'自選聯盟 CSV',
 		pt:'Alianças CSV',
 		fr:'Alliances (CSV)',
 		tr:'İttifaklar CSV',
@@ -428,7 +428,7 @@ addI18n({
 	csv_pit:{
 		en:'Pit Scouting CSV',
 		he:'צופי בור CSV',
-		zh_tw:'坑道偵察 CSV',
+		zh_tw:'Pit 偵查 CSV',
 		pt:'Olheiros de box CSV',
 		fr:'Repérage des stands',
 		tr:'Pit İzciliği',
@@ -436,7 +436,7 @@ addI18n({
 	csv_subjective:{
 		en:'Subjective Scouting CSV',
 		he:'צופי סובייקטיבי CSV',
-		zh_tw:'主觀球探 CSV',
+		zh_tw:'主觀紀錄 CSV',
 		pt:'Olheiros Subjetivos CSV',
 		fr:'Repérage subjectif (CSV)',
 		tr:'Subjektif İzcilik CSV',
@@ -444,7 +444,7 @@ addI18n({
 	json_info:{
 		en:'API Event Info JSON',
 		he:'פרטי אירוע API JSON',
-		zh_tw:'API 事件資訊 JSON',
+		zh_tw:'API 活動資訊 JSON',
 		pt:'API Informações do evento JSON',
 		fr:'Infos événement (JSON) API',
 		tr:'API Etkinlik Bilgileri JSON',
@@ -452,7 +452,7 @@ addI18n({
 	json_teams:{
 		en:'API Team List JSON',
 		he:'רשימת צוות API JSON',
-		zh_tw:'API 團隊清單 JSON',
+		zh_tw:'API 隊伍清單 JSON',
 		pt:'API Lista de equipes JSON',
 		fr:'Liste des équipes (JSON) API',
 		tr:'API Takım Listesi JSON',
@@ -460,7 +460,7 @@ addI18n({
 	json_schedule_practice:{
 		en:'API Practice Schedule JSON',
 		he:'לוח זמנים לתרגול API JSON',
-		zh_tw:'API 團隊清單 JSON',
+		zh_tw:'API 練習賽時程 JSON',
 		pt:'API Cronograma de treino JSON',
 		fr:'Calendrier d\'entraînement (JSON) API',
 		tr:'API Antrenman Programı JSON',
@@ -468,7 +468,7 @@ addI18n({
 	json_schedule_qualification:{
 		en:'API Qualification Schedule JSON',
 		he:'לוח זמנים להסמכת API JSON',
-		zh_tw:'API 資格計劃 JSON',
+		zh_tw:'API 資格賽時程 JSON',
 		pt:'API Cronograma de qualificação JSON',
 		fr:'Calendrier de qualification (JSON) API',
 		tr:'API Kalifikasyon Programı JSON',
@@ -476,7 +476,7 @@ addI18n({
 	json_schedule_playoff:{
 		en:'API Playoff Schedule JSON',
 		he:'לוח זמנים לפלייאוף API JSON',
-		zh_tw:'API 季後賽行程表 JSON',
+		zh_tw:'API 淘汰賽時程 JSON',
 		pt:'API Cronograma de playoff JSON',
 		fr:'Calendrier des séries éliminatoires (JSON) API',
 		tr:'API Playoff Programı JSON',
@@ -484,7 +484,7 @@ addI18n({
 	json_scores_qualification:{
 		en:'API Qualification Scores JSON',
 		he:'ציוני הסמכה של API JSON',
-		zh_tw:'API 資格分數 JSON',
+		zh_tw:'API 資格賽分數 JSON',
 		pt:'API Pontuações de qualificação JSON',
 		fr:'Scores de qualification (JSON) API',
 		tr:'API Kalifikasyon Puanları JSON',
@@ -492,7 +492,7 @@ addI18n({
 	json_scores_playoff:{
 		en:'API Playoff Scores JSON',
 		he:'ציוני פלייאוף API JSON',
-		zh_tw:'API 季後賽比分 JSON',
+		zh_tw:'API 淘汰賽分數 JSON',
 		pt:'API Pontuações de playoff JSON',
 		fr:'Scores des séries éliminatoires (JSON) API',
 		tr:'API Playoff Puanları JSON',
@@ -500,7 +500,7 @@ addI18n({
 	team_num_header:{
 		en:'Team _TEAMID_',
 		he:'צוות _TEAMID_',
-		zh_tw:'團隊 _TEAMID_',
+		zh_tw:'隊伍 #_TEAMID_',
 		pt:'Equipe _TEAMID_',
 		fr:'Équipe _TEAMID_',
 		tr:'Takım _TEAMID_',
@@ -508,7 +508,7 @@ addI18n({
 	scout_this_match_link:{
 		en:'Scout',
 		he:'לְגַשֵׁשׁ',
-		zh_tw:'偵察',
+		zh_tw:'開始觀賽',
 		pt:'Olheiro',
 		fr:'Repérage',
 		tr:'İzci',
@@ -516,7 +516,7 @@ addI18n({
 	team_stats_header:{
 		en:'Team stats:',
 		he:'נתונים סטטיסטיים של הקבוצה:',
-		zh_tw:'球隊數據：',
+		zh_tw:'隊伍數據：',
 		pt:'Estatísticas da equipe:',
 		fr:'Statistiques équipe :',
 		tr:'Takım istatistikleri:',
@@ -524,7 +524,7 @@ addI18n({
 	team_stats_view_link:{
 		en:'View',
 		he:'נוֹף',
-		zh_tw:'看法',
+		zh_tw:'查看',
 		pt:'Exibir',
 		fr:'Voir',
 		tr:'Görüntüle',
@@ -532,7 +532,7 @@ addI18n({
 	pit_scout_header:{
 		en:'Pit scouting:',
 		he:'סיור בורות:',
-		zh_tw:'探坑：',
+		zh_tw:'Pit 偵查：',
 		pt:'Olheiros de box:',
 		fr:'Repérage des stands :',
 		tr:'Pit izciliği:',
@@ -540,7 +540,7 @@ addI18n({
 	pit_scout_view_link:{
 		en:'View',
 		he:'נוֹף',
-		zh_tw:'看法',
+		zh_tw:'查看',
 		pt:'Exibir',
 		fr:'Voir',
 		tr:'Görüntüle',
@@ -564,7 +564,7 @@ addI18n({
 	subjective_view_link:{
 		en:'View',
 		he:'נוֹף',
-		zh_tw:'看法',
+		zh_tw:'查看',
 		pt:'Exibir',
 		fr:'Voir',
 		tr:'Görüntüle',
@@ -588,7 +588,7 @@ addI18n({
 	planner_link:{
 		en:'View planner and whiteboard',
 		he:'צפה במתכנן ובלוח',
-		zh_tw:'查看計劃器和白板',
+		zh_tw:'查看戰術板和白板',
 		pt:'Exibir planejador e quadro branco',
 		fr:'Voir le planificateur et le tableau blanc',
 		tr:'Planlayıcıyı ve beyaz tahtayı görüntüle',
@@ -596,7 +596,7 @@ addI18n({
 	score_header_official:{
 		en:'Official Score',
 		he:'ציון רשמי',
-		zh_tw:'官方成績',
+		zh_tw:'官方分數',
 		pt:'Oficial Pontuação',
 		fr:'Score officiel',
 		tr:'Resmi Skor',
@@ -604,7 +604,7 @@ addI18n({
 	score_header_scouted:{
 		en:'Scouted Score',
 		he:'ציון צופי',
-		zh_tw:'球探評分',
+		zh_tw:'觀賽所得分數',
 		pt:'Pontuação observada',
 		fr:'Repérage Score',
 		tr:'İzlenen Skor',
@@ -612,7 +612,7 @@ addI18n({
 	score_header_predicted:{
 		en:'Predicted Score',
 		he:'ציון חזוי',
-		zh_tw:'預測得分',
+		zh_tw:'預估分數',
 		pt:'Pontuação prevista',
 		fr:'Score prévu',
 		tr:'Tahmin Edilen Skor',
@@ -622,7 +622,7 @@ addI18n({
 		he:'* צבירה כוללת משחקי אימון',
 		pt:'* Agregação inclui partidas de treino',
 		tr:'* Toplama, antrenman maçlarını içerir',
-		zh_tw:'* 總結包括練習賽',
+		zh_tw:'* 統計結果包括練習賽',
 		fr:'* L\'agrégation inclut les matchs d\'entraînement',
 	},
 	aggregation_excludes_practice:{
@@ -630,7 +630,7 @@ addI18n({
 		he:'* צבירה לא כוללת משחקי אימון',
 		pt:'* Agregação exclui partidas de treino',
 		tr:'* Toplama, antrenman maçlarını hariç tutar',
-		zh_tw:'* 總結不包括練習賽',
+		zh_tw:'* 統計結果不包括練習賽',
 		fr:'* L\'agrégation exclut les matchs d\'entraînement',
 	},
 })
