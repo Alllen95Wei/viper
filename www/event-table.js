@@ -7,14 +7,14 @@ addI18n({
 		pt:'Limpar linha inteira?',
 		fr:'Effacer toute la ligne ?',
 		he:'לנקות את כל השורה?',
-		zh_tw:'清除整行？',
+		zh_tw:'確定要清除整行？',
 	},
 	event_table_title:{
 		en:'Enter Event Practice and Qualification Matches',
 		pt:'Coloque eventos de pratica',
 		fr:'Saisir les matchs d\'entraînement et de qualification',
 		tr:'Etkinlik Uygulama ve Eleme Maçlarına Girin',
-		zh_tw:'參加賽事練習和資格賽',
+		zh_tw:'輸入練習賽和資格賽賽程',
 		he:'היכנס למשחקי תרגול והסמכה לאירועים',
 	},
 	event_table_comp_type:{
@@ -30,7 +30,7 @@ addI18n({
 		pt:'Nome do evento:',
 		fr:'Nom de l\'événement :',
 		tr:'Etkinlik adı:',
-		zh_tw:'事件名稱：',
+		zh_tw:'活動名稱：',
 		he:'שם האירוע:',
 	},
 	event_name_placeholder:{
@@ -70,7 +70,7 @@ addI18n({
 		pt:'Cidade, ST, EUA',
 		fr:'Ville, ST, États-Unis',
 		tr:'Şehir, ST, ABD',
-		zh_tw:'城市，ST，美國',
+		zh_tw:'城市, 州別, 美國',
 		he:'סיטי, ST, ארה"ב',
 	},
 	event_id:{
@@ -78,7 +78,7 @@ addI18n({
 		pt:'ID do evento:',
 		fr:'ID de l\'événement :',
 		tr:'Etkinlik kimliği:',
-		zh_tw:'事件 ID：',
+		zh_tw:'活動 ID：',
 		he:'מזהה אירוע:',
 	},
 	event_id_placeholder:{
@@ -86,7 +86,7 @@ addI18n({
 		pt:'Sem espaços ou simbulos',
 		fr:'Sans espaces ni ponctuation',
 		tr:'Boşluk veya noktalama işareti yok',
-		zh_tw:'沒有空格或標點',
+		zh_tw:'不允許空格或標點',
 		he:'ללא רווחים או סימני פיסוק',
 	},
 	event_table_practice:{
@@ -110,7 +110,7 @@ addI18n({
 		pt:'Vermelho ↔ Azul',
 		fr:'Rouge ↔ Bleu',
 		tr:'Kırmızı ↔ Mavi',
-		zh_tw:'紅色 ↔ 藍色',
+		zh_tw:'紅方 ↔ 藍方',
 		he:'אדום ↔ כחול',
 	},
 	clear_row:{
@@ -118,7 +118,7 @@ addI18n({
 		pt:'Limpar Coluna',
 		fr:'Effacer la ligne',
 		tr:'Satırı Temizle',
-		zh_tw:'清除行',
+		zh_tw:'清除整行',
 		he:'נקה שורה',
 	},
 	save_event:{
@@ -126,7 +126,7 @@ addI18n({
 		pt:'Salvar Evento',
 		fr:'Enregistrer l\'événement',
 		tr:'Etkinliği Kaydet',
-		zh_tw:'保存事件',
+		zh_tw:'儲存活動',
 		he:'שמור אירוע',
 	},
 })
