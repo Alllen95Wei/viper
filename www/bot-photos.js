@@ -6,7 +6,7 @@ addI18n({
 		tr:'Yerel fotoğraf depolama alanı doldu, şimdi yükleyin',
 		pt:'O armazenamento local de fotos está cheio, faça upload agora',
 		he:'אחסון התמונות המקומי מלא, העלה עכשיו',
-		zh_tw:'本地照片儲存已滿，請立即上傳',
+		zh_tw:'裝置儲存照片的空間已滿，請立即上傳',
 		fr:'Le stockage local des photos est plein, téléchargez-les maintenant',
 	},
 	bot_photo_title:{
@@ -22,7 +22,7 @@ addI18n({
 		pt:'Temporada:',
 		he:'עוֹנָה:',
 		tr:'Sezon:',
-		zh_tw:'季節：',
+		zh_tw:'賽季：',
 		fr:'Saison :',
 	},
 	team_header:{
@@ -30,7 +30,7 @@ addI18n({
 		pt:'Equipe',
 		he:'קְבוּצָה',
 		tr:'Takım',
-		zh_tw:'團隊',
+		zh_tw:'隊伍 #',
 		fr:'Équipe',
 	},
 	side_view_header:{
@@ -38,7 +38,7 @@ addI18n({
 		pt:'Vista lateral',
 		he:'מבט מהצד',
 		tr:'Yan Görünüm',
-		zh_tw:'側面圖',
+		zh_tw:'側視圖',
 		fr:'Vue latérale',
 	},
 	top_view_header:{
@@ -46,7 +46,7 @@ addI18n({
 		pt:'Vista superior',
 		he:'תצוגה למעלה',
 		tr:'Üst Görünüm',
-		zh_tw:'頂視圖',
+		zh_tw:'上視圖',
 		fr:'Vue de dessus',
 	},
 	add_team_button:{
@@ -54,7 +54,7 @@ addI18n({
 		pt:'Adicionar equipe',
 		he:'הוסף צוות',
 		tr:'Takım Ekle',
-		zh_tw:'新增團隊',
+		zh_tw:'新增隊伍',
 		fr:'Ajouter une équipe',
 	},
 	upload_all_button:{
@@ -70,7 +70,7 @@ addI18n({
 		pt:'Equipe _TEAMNUM_',
 		he:'צוות _TEAMNUM_',
 		tr:'Takım _TEAMNUM_',
-		zh_tw:'團隊 _TEAMNUM_',
+		zh_tw:'隊伍 #_TEAMNUM_',
 		fr:'Équipe _TEAMNUM_',
 	},
 	team_num_placeholder:{
@@ -78,7 +78,7 @@ addI18n({
 		pt:'Equipe nº',
 		he:'צוות מס\'',
 		tr:'Takım #',
-		zh_tw:'團隊 ＃',
+		zh_tw:'隊伍 ＃',
 		fr:'Équipe n°',
 	},
 })
