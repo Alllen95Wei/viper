@@ -6,7 +6,7 @@ addI18n({
 		he:'רשימת אירועי API ראשונה',
 		pt:'Lista de eventos da FIRST API',
 		tr:'İLK API Etkinlik Listesi',
-		zh_tw:'FIRST API 事件列表',
+		zh_tw:'FIRST API 活動清單',
 		fr:'Liste des événements API FIRST',
 	},
 	api_events_instruction:{
@@ -14,7 +14,7 @@ addI18n({
 		he:'לחץ על אירוע כדי להוריד את הנתונים הרשמיים עבורו.',
 		pt:'Clique em um evento para baixar os dados oficiais dele.',
 		tr:'Resmi verilerini indirmek için bir etkinliğe tıklayın.',
-		zh_tw:'點擊某個事件即可下載該事件的官方資料。',
+		zh_tw:'點擊活動即可下載該活動的官方資料。',
 		fr:'Cliquez sur un événement pour télécharger ses données officielles.',
 	},
 	api_events_refresh_link:{
@@ -22,7 +22,7 @@ addI18n({
 		he:'רענן את רשימת האירועים',
 		pt:'Atualizar lista de eventos',
 		tr:'Etkinlik listesini yenile',
-		zh_tw:'刷新事件列表',
+		zh_tw:'更新活動清單',
 		fr:'Actualiser la liste des événements',
 	},
 	season_label:{
@@ -30,7 +30,7 @@ addI18n({
 		he:'עוֹנָה:',
 		pt:'Temporada:',
 		tr:'Sezon:',
-		zh_tw:'季節：',
+		zh_tw:'賽季：',
 		fr:'Saison :',
 	},
 	filter_label:{
@@ -38,7 +38,7 @@ addI18n({
 		he:'לְהַצִיג:',
 		pt:'Mostrar:',
 		tr:'Göster:',
-		zh_tw:'展示：',
+		zh_tw:'顯示：',
 		fr:'Afficher :',
 	},
 	filter_all:{
@@ -54,7 +54,7 @@ addI18n({
 		he:'בקרוב',
 		pt:'Próximos',
 		tr:'Yaklaşan',
-		zh_tw:'即將推出',
+		zh_tw:'即將開始',
 		fr:'À venir',
 	},
 	cached_heading:{
@@ -62,7 +62,7 @@ addI18n({
 		he:'נמצאו נתוני API שמורים',
 		pt:'Dados da API em cache encontrados',
 		tr:'Önbelleğe Alınan API Verileri Bulundu',
-		zh_tw:'找到快取的 API 數據',
+		zh_tw:'找到快取的 API 資料',
 		fr:'Données API en cache trouvées',
 	},
 	cache_create_link:{
@@ -70,7 +70,7 @@ addI18n({
 		he:'צור אירוע מנתונים שמורים',
 		pt:'Criar evento a partir de dados em cache',
 		tr:'Önbelleğe alınan verilerden etkinlik oluştur',
-		zh_tw:'根據快取資料建立事件',
+		zh_tw:'以快取的資料建立活動',
 		fr:'Créer un événement à partir des données en cache',
 	},
 	cached_refresh_link:{
@@ -78,7 +78,7 @@ addI18n({
 		he:'תחילה אחזר את העדכניים ביותר מ-API',
 		pt:'Obter o mais recente da API primeiro',
 		tr:'Önce API\'den son haberleri al',
-		zh_tw:'首先從 API 取得最新內容',
+		zh_tw:'優先從 API 取得最新資料',
 		fr:'Récupérer les dernières données de l\'API en premier',
 	},
 })
