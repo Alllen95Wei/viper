@@ -7,7 +7,7 @@ addI18n({
 		pt:'Importar um evento',
 		tr:'Bir Etkinliği İçe Aktar',
 		fr:'Importer un événement',
-		zh_tw:'導入事​​件',
+		zh_tw:'匯入活動',
 	},
 	event_upload_short_instructions:{
 		en:'Paste data from another source into the text area below.',
@@ -15,7 +15,7 @@ addI18n({
 		pt:'Cole dados de outra fonte na área de texto abaixo.',
 		tr:'Aşağıdaki metin alanına başka bir kaynaktan veri yapıştırın.',
 		fr:'Collez les données d\'une autre source dans la zone de texte ci-dessous.',
-		zh_tw:'將來自其他來源的數據貼到下面的文字區域。',
+		zh_tw:'在下方文字框貼上來自其他來源的資料。',
 	},
 	no_data:{
 		en:'No data found!',
@@ -23,7 +23,7 @@ addI18n({
 		pt:'Nenhum dado encontrado!',
 		tr:'Veri bulunamadı!',
 		fr:'Aucune donnée trouvée !',
-		zh_tw:'沒有找到數據！',
+		zh_tw:'沒有找到資料！',
 	},
 	event_name_label:{
 		en:'Event name:',
@@ -31,7 +31,7 @@ addI18n({
 		pt:'Nome do evento:',
 		tr:'Etkinlik adı:',
 		fr:'Nom de l\'événement :',
-		zh_tw:'事件名稱：',
+		zh_tw:'活動名稱：',
 	},
 	event_name_placeholder:{
 		en:'Name of event',
@@ -79,7 +79,7 @@ addI18n({
 		pt:'ID do evento:',
 		tr:'Etkinlik kimliği:',
 		fr:'ID de l\'événement :',
-		zh_tw:'事件 ID：',
+		zh_tw:'活動 ID：',
 	},
 	event_id_placeholder:{
 		en:'No spaces or symbols',
@@ -87,7 +87,7 @@ addI18n({
 		pt:'Sem espaços ou símbolos',
 		tr:'Boşluk veya sembol yok',
 		fr:'Sans espaces ni symboles',
-		zh_tw:'沒有空格或符號',
+		zh_tw:'不允許空格或符號',
 	},
 })
 
