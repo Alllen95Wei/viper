@@ -4,7 +4,7 @@ addI18n({
 	event_downloaded_title:{
 		en:'_EVENT_ API Data',
 		fr:'Données API _ÉVÉNEMENT_',
-		zh_tw:'_EVENT_ API 數據',
+		zh_tw:'_EVENT_ API 資料',
 		tr:'_EVENT_ API Verileri',
 		pt:'_EVENTO_ Dados da API',
 		he:'_EVENT_ נתוני API',
@@ -12,7 +12,7 @@ addI18n({
 	event_download_instruction:{
 		en:'How would you like to use the data?',
 		fr:'Comment souhaitez-vous utiliser ces données ?',
-		zh_tw:'您希望如何使用這些數據？',
+		zh_tw:'你想要如何使用這些資料？',
 		tr:'Verileri nasıl kullanmak istersiniz?',
 		pt:'Como você gostaria de usar os dados?',
 		he:'כיצד תרצה להשתמש בנתונים?',
@@ -20,7 +20,7 @@ addI18n({
 	update_schedule_link:{
 		en:'Update schedule',
 		fr:'Mettre à jour le calendrier',
-		zh_tw:'更新時間表',
+		zh_tw:'更新時程表',
 		tr:'Programı güncelle',
 		pt:'Atualizar cronograma',
 		he:'עדכן את לוח הזמנים',
@@ -28,7 +28,7 @@ addI18n({
 	compare_scouting_link:{
 		en:'Compare scouting data',
 		fr:'Comparer les données de repérage',
-		zh_tw:'比較偵察數據',
+		zh_tw:'比較觀賽數據',
 		tr:'İzleme verilerini karşılaştır',
 		pt:'Comparar dados de olheiros',
 		he:'השווה נתוני צופים',
@@ -36,7 +36,7 @@ addI18n({
 	scouter_rankings_link:{
 		en:'See scouter rankings',
 		fr:'Consulter le classement des recruteurs',
-		zh_tw:'查看球探排名',
+		zh_tw:'查看觀賽者排名',
 		tr:'İzci sıralamalarını gör',
 		pt:'Ver classificações de olheiros',
 		he:'ראה דירוג צופים',
